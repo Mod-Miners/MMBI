@@ -1,0 +1,26 @@
+{
+    "ModSettings": {
+        "highlight_foused_items": false,
+        "enable_updates_check": false,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": false,
+        "continuous_crafting_saved_value": false
+    },
+    "AutoRefillSettings": {
+        "tool_damage_threshold": 0,
+        "audio_durability_notification": false,
+        "visual_replace_success_notification": false,
+        "audio_replace_success_notification": false,
+        "visual_replace_failed_notification": false,
+        "audio_replace_failed_notification": false
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "BUTTON_3"
+            }
+        }
+    }
+}
