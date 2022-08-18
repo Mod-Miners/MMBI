@@ -1,0 +1,75 @@
+{
+    "appeng.client.gui.implementations.ChestScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.CondenserScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.DriveScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.InscriberScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 47,
+                "top": -8
+            }
+        }
+    },
+    "appeng.client.gui.implementations.InterfaceScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.MolecularAssemblerScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.PatternProviderScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.SpatialAnchorScreen": {
+        "ignore": true
+    },
+    "appeng.menu.implementations.SpatialAnchorMenu": {
+        "ignore": true
+    },
+    "appeng.client.gui.implementations.VibrationChamberScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.QNBScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.me.common.MEStorageScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 20
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 20
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 20
+            }
+        }
+    },
+    "appeng.client.gui.implementations.IOBusScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.WirelessScreen": {
+        "playerSideOnly": true
+    },
+    "appeng.client.gui.implementations.SecurityStationScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 20
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 20
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 20
+            }
+        }
+    }
+}

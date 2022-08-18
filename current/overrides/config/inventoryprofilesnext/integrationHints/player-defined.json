@@ -1,43 +1,58 @@
 {
-    "lain.mods.cos.impl.client.gui.GuiCosArmorInventory": {
-        "ignore": true
-    },
-    "lain.mods.cos.impl.inventory.ContainerCosArmor": {
-        "ignore": true
-    },
-    "top.theillusivec4.curios.client.gui.CuriosScreen": {
-        "ignore": true
-    },
-    "top.theillusivec4.curios.common.inventory.container.CuriosContainer": {
-        "ignore": true
-    },
-    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+    "net.minecraft.client.gui.screen.inventory.CreativeScreen": {
         "buttonHints": {
-            "PROFILE_SELECTOR": {
-                "bottom": 29
-            },
             "SHOW_EDITOR": {
-                "horizontalOffset": 200,
-                "top": -5
+                "horizontalOffset": 47,
+                "top": -8
             }
         }
     },
-    "mekanism.common.registration.impl.ContainerTypeDeferredRegister$ContainerBuilder$1": {
+    "net.minecraft.client.gui.screen.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 47,
+                "top": -8
+            }
+        }
+    },
+    "net.minecraft.client.gui.screen.inventory.CraftingScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 47,
+                "top": -8
+            }
+        }
+    },
+    "net.minecraft.client.gui.screen.inventory.ChestScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 47,
+                "top": -8
+            }
+        }
+    },
+    "appeng.client.gui.me.items.ItemTerminalScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 19
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 47,
+                "top": -8
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 19
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 19
+            }
+        }
+    },
+    "com.almostreliable.lazierae2.gui.MachineScreen": {
         "ignore": true
     },
-    "mekanism.common.inventory.container.tile.MekanismTileContainer": {
-        "ignore": true
-    },
-    "net.permutated.pylons.client.gui.ExpulsionPylonScreen": {
-        "ignore": true
-    },
-    "net.permutated.pylons.client.gui.InfusionPylonScreen": {
-        "ignore": true
-    },
-    "net.permutated.pylons.client.gui.HarvesterPylonScreen": {
-        "ignore": true
-    },
-    "net.permutated.pylons.client.gui.InterdictionPylonScreen": {
+    "shadows.apotheosis.village.fletching.FletchingScreen": {
         "ignore": true
     }
 }
