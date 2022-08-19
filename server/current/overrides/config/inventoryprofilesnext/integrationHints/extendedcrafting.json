@@ -1,0 +1,76 @@
+{
+    "com.blakebr0.extendedcrafting.client.screen.CraftingCoreScreen": {
+        "playerSideOnly": true
+    },
+    "com.blakebr0.extendedcrafting.client.screen.BasicTableScreen": {
+        "playerSideOnly": true
+    },
+    "com.blakebr0.extendedcrafting.client.screen.AdvancedTableScreen": {
+        "playerSideOnly": true
+    },
+    "com.blakebr0.extendedcrafting.client.screen.EliteTableScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 12
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 12
+            }
+        }
+    },
+    "com.blakebr0.extendedcrafting.client.screen.UltimateTableScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 27
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 27
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 27
+            }
+        }
+    },
+    "com.blakebr0.extendedcrafting.client.screen.BasicAutoTableScreen": {
+        "playerSideOnly": true
+    },
+    "com.blakebr0.extendedcrafting.client.screen.AdvancedAutoTableScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 5
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 5
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 5
+            }
+        }
+    },
+    "com.blakebr0.extendedcrafting.client.screen.EliteAutoTableScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 22
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 22
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 22
+            }
+        }
+    },
+    "com.blakebr0.extendedcrafting.client.screen.CompressorScreen": {
+        "playerSideOnly": true
+    },
+    "com.blakebr0.extendedcrafting.client.screen.EnderCrafterScreen": {
+        "playerSideOnly": true
+    }
+}
