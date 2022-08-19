@@ -1,0 +1,21 @@
+{
+    "net.mehvahdjukaar.supplementaries.client.gui.TrappedPresentBlockGui": {
+        "playerSideOnly": true
+    },
+    "shadows.apotheosis.ench.library.EnchLibraryScreen": {
+        "playerSideOnly": true
+    },
+    "net.mehvahdjukaar.supplementaries.client.gui.PresentBlockGui": {
+        "ignore": true,
+        "playerSideOnly": true
+    },
+    "net.mehvahdjukaar.supplementaries.client.gui.NoticeBoardGui": {
+        "playerSideOnly": true
+    },
+    "net.mehvahdjukaar.supplementaries.client.gui.PulleyBlockGui": {
+        "playerSideOnly": true
+    },
+    "net.mehvahdjukaar.supplementaries.client.gui.SackGui": {
+        "playerSideOnly": true
+    }
+}

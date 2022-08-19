@@ -6,6 +6,16 @@
         "enable_profiles_ui": false,
         "continuous_crafting_saved_value": false
     },
+    "LockedSlotsSettings": {
+        "lock_slots_switch_config_modifier": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "show_locked_slots_background": false,
+        "show_locked_slots_foreground": false,
+        "also_show_locked_slots_in_hotbar": false
+    },
     "AutoRefillSettings": {
         "tool_damage_threshold": 0,
         "audio_durability_notification": false,
