@@ -605,5 +605,146 @@
     },
     "slimeknights.mantle.client.screen.BackgroundContainerScreen": {
         "ignore": true
+    },
+    "com.lothrazar.cyclic.item.crafting.CraftingBagScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -42,
+                "bottom": -12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": -24
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": -36
+            }
+        }
+    },
+    "com.lothrazar.cyclic.item.craftingsimple.CraftingStickScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -42,
+                "bottom": -12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": -24
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": -36
+            }
+        }
+    },
+    "com.teammetallurgy.atum.client.gui.block.GodforgeScreen": {
+        "playerSideOnly": true
+    },
+    "superlord.prehistoricfauna.client.render.tileentity.gui.PaleontologyTableScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -24
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -36
+            }
+        }
+    },
+    "superlord.prehistoricfauna.client.render.tileentity.gui.PaleoscribeScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "bottom": -1
+            },
+            "SORT_COLUMNS": {
+                "bottom": -1
+            },
+            "SORT_ROWS": {
+                "bottom": -1
+            }
+        }
+    },
+    "cy.jdkdigital.productivebees.container.gui.AdvancedBeehiveScreen": {
+        "ignore": true,
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -29,
+                "bottom": -16
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -17,
+                "bottom": -28
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -5,
+                "bottom": -40
+            }
+        }
+    },
+    "androsa.gaiadimension.block.inventory.AgateCraftingScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 1
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 1
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 1
+            }
+        }
+    },
+    "androsa.gaiadimension.block.inventory.SmallCrateScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": -1
+            }
+        }
+    },
+    "androsa.gaiadimension.block.inventory.LargeCrateScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 8
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 8
+            },
+            "SORT": {
+                "horizontalOffset": 8
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 8
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 8
+            }
+        }
+    },
+    "androsa.gaiadimension.block.inventory.GaiaStoneFurnaceScreen": {
+        "playerSideOnly": true
+    },
+    "androsa.gaiadimension.block.inventory.RestructurerScreen": {
+        "playerSideOnly": true
+    },
+    "androsa.gaiadimension.block.inventory.PurifierScreen": {
+        "playerSideOnly": true
+    },
+    "com.the9grounds.aeadditions.client.gui.me.chemical.ChemicalTerminalScreen": {
+        "playerSideOnly": true
+    },
+    "com.the9grounds.aeadditions.client.gui.me.chemical.ChemicalIOBusScreen": {
+        "playerSideOnly": true
     }
 }

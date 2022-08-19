@@ -1,9 +1,13 @@
 {
     "ModSettings": {
+        "highlight_foused_items": false,
+        "enable_lock_slots": false,
+        "enable_lock_slots_per_server": false,
         "first_run": false
     },
     "GuiSettings": {
         "enable_profiles_ui": false,
+        "enable_inventory_editor_button": false,
         "continuous_crafting_saved_value": false
     },
     "LockedSlotsSettings": {
