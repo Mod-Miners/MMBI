@@ -1,0 +1,75 @@
+{
+    "cy.jdkdigital.productivebees.container.gui.CentrifugeScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 13
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 13
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 13
+            }
+        }
+    },
+    "cy.jdkdigital.productivebees.container.gui.BottlerScreen": {
+        "playerSideOnly": true
+    },
+    "cy.jdkdigital.productivebees.container.gui.IncubatorScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 10
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 10
+            }
+        }
+    },
+    "cy.jdkdigital.productivebees.container.gui.CatcherScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 13
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 13
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 13
+            }
+        }
+    },
+    "cy.jdkdigital.productivebees.container.gui.HoneyGeneratorScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 10
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 10
+            }
+        }
+    },
+    "cy.jdkdigital.productivebees.container.gui.GeneIndexerScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 40
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 40
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 40
+            }
+        }
+    }
+}

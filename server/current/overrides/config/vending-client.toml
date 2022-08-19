@@ -1,0 +1,8 @@
+
+[client]
+	#Range: 0.0 ~ 1.7976931348623157E308
+	rotation_speed = 0.019999999552965164
+	#Range: 0.0 ~ 1.7976931348623157E308
+	item_size = 0.5
+	show_infinite_tag = true
+

@@ -1,0 +1,17 @@
+#The Dimension that Gaia will connect to. Results may vary based on the World chosen. Existing portals will remain regardless of what is set here until they are broken, however they may no longer connect.
+startDimension = "minecraft:overworld"
+#Change how the portal can be created. If true, the portal will check where it is allowed to spawn based on the type of list and what contents are in the list.
+portalCheck = true
+#Changes whether the list to check is a blacklist or a whitelist. A blacklist will exclude biomes from the portal, anything not on the list is allowed. A whitelist will allow biomes for the portal, anything on the list is allowed. If portalCheck is false, this value is unused.
+#Allowed Values: BLACKLIST, WHITELIST
+listType = "WHITELIST"
+#Determines what list the biome checker should use. If set to BIOME, the list will check entries based on the individual biome. If set to CATEGORY, the list will check entries based on the biome's Category. If set to Type, the list will check entries based on the biome's BiomeDictionary Type. If portalCheck is false, this value is unused.
+#Allowed Values: BIOME, CATEGORY, TYPE
+biomeType = "TYPE"
+#A list of biomes to be used by the check list. Blacklists will ignore the biomes while whitelists will allow the biomes. This value is only checked if biomeType is set to BIOME.
+biomeList = ["minecraft:desert", "minecraft:desert_hills", "minecraft:jungle", "minecraft:jungle_hills", "minecraft:jungle_edge", "minecraft:savanna", "minecraft:savanna_plateau", "minecraft:warm_ocean", "minecraft:deep_warm_ocean", "minecraft:desert_lakes", "minecraft:modified_jungle", "minecraft:modified_jungle_edge", "minecraft:shattered_savanna", "minecraft:shattered_savanna_plateau", "minecraft:eroded_badlands", "minecraft:modified_wooded_badlands_plateau", "minecraft:modified_badlands_plateau", "minecraft:bamboo_jungle", "minecraft:bamboo_jungle_hills", "minecraft:badlands", "minecraft:wooded_badlands_plateau", "minecraft:badlands_plateau", "minecraft:mountains", "minecraft:snowy_mountains", "minecraft:mountain_edge", "minecraft:wooded_mountains", "minecraft:gravelly_mountains", "minecraft:taiga_mountains", "minecraft:tall_birch_hills", "minecraft:dark_forest_hills", "minecraft:snowy_taiga_mountains", "minecraft:modified_gravelly_mountains"]
+#A list of biome Categories to be used by the check list. A Category is a single value assigned to a biome and is a vanilla system. Blacklists will ignore the Categories while whitelists will allow the Categories. This value is only checked if biomeType is set to CATEGORY.
+categoryList = ["desert", "extreme_hills", "mesa", "savanna", "jungle"]
+#A list of biome Types to be used by the check list. A Type is a value that is assigned to a biome by Forge's BiomeDictionary system; one biome can have multiple Types. Blacklists will ignore biomes with the Tag while whitelists will allow biomes with the Tag. This value is only checked if biomeType is set to TYPE.
+typeList = ["HOT", "DRY", "MOUNTAIN"]
+

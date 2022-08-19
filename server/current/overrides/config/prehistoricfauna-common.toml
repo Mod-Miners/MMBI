@@ -1,0 +1,183 @@
+
+[general]
+	#The weight of Thescelosaurus in vanilla's spawn rate. Default is 12
+	#Range: 1 ~ 300
+	"Thescelosaurus Spawn Weight" = 12
+	#The weight of Triceratops in vanilla's spawn rate. Default is 14
+	#Range: 1 ~ 300
+	"Triceratops Spawn Weight" = 14
+	#The weight of Ankylosaurus in vanilla's spawn rate. Default is 7
+	#Range: 1 ~ 300
+	"Ankylosaurus Spawn Weight" = 7
+	#The weight of Tyrannosaurus in vanilla's spawn rate. Default is 10
+	#Range: 1 ~ 300
+	"Tyrannosaurus Spawn Weight" = 10
+	#The weight of Basilemys in vanilla's spawn rate. Default is 7
+	#Range: 1 ~ 300
+	"Basilemys Spawn Weight" = 7
+	#The weight of Dakotaraptor in vanilla's spawn rate. Default is 2
+	#Range: 1 ~ 300
+	"Dakotaraptor Spawn Weight" = 2
+	#The weight of Didelphodon in vanilla's spawn rate. Default is 6
+	#Range: 1 ~ 300
+	"Didelphodon Spawn Weight" = 6
+	#The weight of Thescelosaurus in vanilla's spawn rate in the Clearing Sub-biome. Default is 10
+	#Range: 1 ~ 300
+	"Thescelosaurus Clearing Spawn Weight" = 10
+	#The weight of Triceratops in vanilla's spawn rate in the Clearing Sub-biome. Default is 15
+	#Range: 1 ~ 300
+	"Triceratops Clearing Spawn Weight" = 15
+	#The weight of Ankylosaurus in vanilla's spawn rate in the Clearing Sub-biome. Default is 15
+	#Range: 1 ~ 300
+	"Ankylosaurus Clearing Spawn Weight" = 15
+	#The weight of Basilemys in vanilla's spawn rate in the Clearing Sub-biome. Default is 9
+	#Range: 1 ~ 300
+	"Basilemys Clearing Spawn Weight" = 9
+	#The weight of Stegosaurus in vanilla's spawn rate. Default is 10
+	#Range: 1 ~ 300
+	"Stegosaurus Spawn Weight" = 10
+	#The weight of Dryosaurus in vanilla's spawn rate. Default is 7
+	#Range: 1 ~ 300
+	"Dryosaurus Spawn Weight" = 7
+	#The weight of Ceratosaurus in vanilla's spawn rate. Default is 2
+	#Range: 1 ~ 300
+	"Ceratosaurus Spawn Weight" = 2
+	#The weight of Allosaurus in vanilla's spawn rate. Default is 3
+	#Range: 1 ~ 300
+	"Allosaurus Spawn Weight" = 3
+	#The weight of Hesperornithoides in vanilla's spawn rate. Default is 4
+	#Range: 1 ~ 300
+	"Hesperornithoides Spawn Rate" = 7
+	#The weight of Eilenodon in vanilla's spawn rate. Default is 5
+	#Range: 1 ~ 300
+	"Eilenodon Spawn Weight" = 8
+	#The weight of Camarasaurus in vanilla's spawn rate. Default is 2
+	#Range: 1 ~ 300
+	"Camarasaurus Spawn Weight" = 2
+	#The weight of Exaeretodon in vanilla's spawn rate. Default is 12
+	#Range: 1 ~ 300
+	"Exaeretodon Spawn Weight" = 12
+	#The weight of Chromogisaurus in vanilla's spawn rate. Default is 10
+	#Range: 1 ~ 300
+	"Chromogisaurus Spawn Weight" = 10
+	#The weight of Herrerasaurus in vanilla's spawn rate. Default is 8
+	#Range: 1 ~ 300
+	"Herrerasaurus Spawn Weight" = 8
+	#The weight of Hyperodapedon in vanilla's spawn rate. Default is 15
+	#Range: 1 ~ 300
+	"Hyperodapedon Spawn Weight" = 15
+	#The weight of Sillosuchus in vanilla's spawn rate. Default is 6
+	#Range: 1 ~ 300
+	"Sillosuchus Spawn Weight" = 6
+	#The weight of Saurosuchus in vanilla's spawn rate. Default is 4
+	#Range: 1 ~ 300
+	"Saurosuchus Spawn Weight" = 4
+	#The weight of Ischigualastia in vanilla's spawn rate. Default is 8
+	#Range: 1 ~ 300
+	"Ischigualastia Spawn Weight" = 8
+	#The weight of Cave Sentinels in vanilla's spawn rate. Default is 5
+	#Range: 1 ~ 300
+	"Cave Sentinel Spawn Weight" = 5
+	#The weight of Land Sentinels in vanilla's spawn rate. Default is 2
+	#Range: 1 ~ 300
+	"Land Sentinel Spawn Weight" = 2
+	#The weight of Myledaphus in vanilla's spawn rate. Default is 5
+	#Range: 1 ~ 300
+	"Myledaphus Spawn Weight" = 2
+	#The weight of Gar in vanilla's spawn rate. Default is 4
+	#Range: 1 ~ 300
+	"Gar Spawn Weight" = 4
+	#The weight of Cyclurus in vanilla's spawn rate. Default is 3
+	#Range: 1 ~ 300
+	"Cyclurus Spawn Weight" = 1
+	#The weight of Ceratodus in vanilla's spawn rate in the Morrison biomes. Default is 1
+	#Range: 1 ~ 300
+	"Ceratodus Morrison Spawn Weight" = 1
+	#The weight of Ceratodus in vanilla's spawn rate in the Ischigualasto biomes. Default is 3
+	#Range: 1 ~ 300
+	"Ceratodus Ischigualasto Spawn Weight" = 3
+	#The weight of Potamoceratodus in vanilla's spawn rate. Default is 3
+	#Range: 1 ~ 300
+	"Potamoceratodus Spawn Weight" = 3
+	#The weight of Protoceratops in the Djadochta Arroyo biome in vanilla's spawn rate. Default is 4
+	#Range: 1 ~ 300
+	"Protoceratops Spawn Weight" = 4
+	#The weight of Protoceratops in the Djadochta Dunes biome in vanilla's spawn rate. Default is 7
+	#Range: 1 ~ 300
+	"Protoceratops Dune Spawn Weight" = 7
+	#The weight of Velociraptor in the Djadochta Arroyo biome in vanilla's spawn rate. Default is 3
+	#Range: 1 ~ 300
+	"Velociraptor Spawn Weight" = 3
+	#The weight of Velociraptor in the Djadochta Dunes biome in vanilla's spawn rate. Default is 6
+	#Range: 1 ~ 300
+	"Velociraptor Dune Spawn Weight" = 6
+	#The weight of Citipati in the Djadochta Arroyo biome in vanilla's spawn rate. Default is 5
+	#Range: 1 ~ 300
+	"Citipati Spawn Weight" = 5
+	#The weight of Citipati in the Djadochta Dunes biome in vanilla's spawn rate. Default is 5
+	#Range: 1 ~ 300
+	"Citipati Dune Spawn Weight" = 5
+	#The weight of Aepyornithomimus in the Djadochta Arroyo biome in vanilla's spawn rate. Default is 12
+	#Range: 1 ~ 300
+	"Aepyornithomimus Spawn Weight" = 12
+	#The weight of Aepyornithomimus in the Djadochta Dunes biome in vanilla's spawn rate. Default is 3
+	#Range: 1 ~ 300
+	"Aepyornithomimus Dune Spawn Weight" = 2
+	#Even I don't know what it does. Default is false
+	"Super Secret Setting" = false
+	#Cretaceous Dimension ID. Default is 9
+	#Range: > -2147483648
+	"Cretaceous Dimension ID" = 9
+	#Jurassic Dimension ID. Default is 8
+	#Range: > -2147483648
+	"Jurassic Dimension ID" = 8
+	#Triassic Dimension ID. Default is 7
+	#Range: > -2147483648
+	"Triassic Dimension ID" = 7
+	#The closest two Hell Creek Ruined Time Traveller's Huts can spawn from eachother. Keep this value lower than the max. Default is 40
+	#Range: 1 ~ 300
+	"Hell Creek Ruined Time Traveller's Hut Min Distance" = 40
+	#The farthest two Hell Creek Ruined Time Traveller's Huts can spawn from eachother. Keep this value higher than the min. Default is 60
+	#Range: 1 ~ 300
+	"Hell Creek Ruined Time Traveller's Hut Max Distance" = 60
+	#The closest two Morrison Ruined Time Traveller's Huts can spawn from eachother. Keep this value lower than the max. Default is 40
+	#Range: 1 ~ 300
+	"Morrison Ruined Time Traveller's Hut Min Distance" = 40
+	#The farthest two Morrison Ruined Time Traveller's Huts can spawn from eachother. Keep this value higher than the min. Default is 60
+	#Range: 1 ~ 300
+	"Morrison Ruined Time Traveller's Hut Max Distance" = 60
+	#The closest two Ischigualasto Ruined Time Traveller's Huts can spawn from eachother. Keep this value lower than the max. Default is 40
+	#Range: 1 ~ 300
+	"Ischigualasto Ruined Time Traveller's Hut Min Distance" = 40
+	#The farthest two Ischigualasto Ruined Time Traveller's Huts can spawn from eachother. Keep this value higher than the min. Default is 60
+	#Range: 1 ~ 300
+	"Ischigualasto Ruined Time Traveller's Hut Max Distance" = 60
+	#The closest two Geologist Camps can spawn from eachother. Keep this value lower than the max. Default is 25
+	#Range: 1 ~ 300
+	"Geologist Camp Min Distance" = 25
+	#The farthest two Geologist Camps can spawn from eachother. Keep this value higher than the min. Default is 50
+	#Range: 1 ~ 300
+	"Geologist Camp Max Distance" = 50
+	#The closest two Time Temples can spawn from eachother. Keep this value lower than the max. Default is 75
+	#Range: 1 ~ 300
+	"Time Temple Min Distance" = 75
+	#The farthest two Time Temples can spawn from eachother. Keep this value higher than the min. Default is 100
+	#Range: 1 ~ 300
+	"Time Temple Max Distance" = 100
+	#The closest two Portal Hubs can spawn from eachother. Keep this value lower than the max. Default is 40
+	#Range: 1 ~ 300
+	"Portal Hub Min Distance" = 40
+	#The farthest two Portal Hubs can spawn from eachother. Keep this value higher than the min. Default is 60
+	#Range: 1 ~ 300
+	"Portal Hub Hut Max Distance" = 60
+	#Warning: Messing with the time space continuum may lead to unforseen consequences. Recommended to keep false for servers. Default is false
+	"Space Time Continuum Warping" = false
+	#Toggles whether stones can be broken down using the Geological Hammer. Default is true
+	"Geological Hammer Stone Breaking" = true
+	#The probability of an ancient stone deposit is made up of the base stone. To find the percentage probability, add the base stone weight with the fossil weight, and then divide the base stone weight by the combined weights. Default is 97
+	#Range: 1 ~ 300
+	"Base Stone Weight" = 97
+	#The probability of an ancient stone deposit is made up of the fossilized stone. To find the percentage probability, add the base stone weight with the fossil weight, and then divide the fossil stone weight by the combined weights. Default is 3
+	#Range: 1 ~ 300
+	"Fossil Weight" = 3
+

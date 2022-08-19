@@ -1,0 +1,175 @@
+{
+    "blusunrize.immersiveengineering.client.gui.CraftingTableScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "bottom": -1
+            },
+            "SORT_COLUMNS": {
+                "bottom": -1
+            },
+            "SORT_ROWS": {
+                "bottom": -1
+            }
+        }
+    },
+    "blusunrize.immersiveengineering.client.gui.SorterScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -6
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -18
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -30
+            }
+        }
+    },
+    "blusunrize.immersiveengineering.client.gui.ItemBatcherScreen": {
+        "playerSideOnly": true
+    },
+    "blusunrize.immersiveengineering.client.gui.LogicUnitScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "bottom": -2
+            },
+            "SORT_COLUMNS": {
+                "bottom": -2
+            },
+            "SORT_ROWS": {
+                "bottom": -2
+            }
+        }
+    },
+    "blusunrize.immersiveengineering.client.gui.GunTurretScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -42,
+                "bottom": -13
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": -25
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": -37
+            }
+        }
+    },
+    "blusunrize.immersiveengineering.common.gui.TurretContainer$GunTurretContainer": {
+        "ignore": true
+    },
+    "blusunrize.immersiveengineering.client.gui.ChemTurretScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -42,
+                "bottom": -13
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": -25
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": -37
+            }
+        }
+    },
+    "blusunrize.immersiveengineering.common.gui.TurretContainer$ChemTurretContainer": {
+        "ignore": true
+    },
+    "blusunrize.immersiveengineering.client.gui.ClocheScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -42,
+                "bottom": -13
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": -25
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": -37
+            }
+        }
+    },
+    "blusunrize.immersiveengineering.common.gui.ClocheContainer": {
+        "ignore": true
+    },
+    "blusunrize.immersiveengineering.client.gui.ModWorkbenchScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "bottom": -2
+            },
+            "SORT_COLUMNS": {
+                "bottom": -2
+            },
+            "SORT_ROWS": {
+                "bottom": -2
+            }
+        }
+    },
+    "blusunrize.immersiveengineering.client.gui.CircuitTableScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 16,
+                "bottom": 1
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 28,
+                "bottom": -11
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 40,
+                "bottom": -23
+            }
+        }
+    },
+    "blusunrize.immersiveengineering.client.gui.FluidSorterScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -6
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -18
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -30
+            }
+        }
+    },
+    "blusunrize.immersiveengineering.client.gui.ToolboxScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "bottom": -2
+            },
+            "SORT_COLUMNS": {
+                "bottom": -2
+            },
+            "SORT_ROWS": {
+                "bottom": -2
+            }
+        }
+    },
+    "blusunrize.immersiveengineering.client.gui.RevolverScreen": {
+        "playerSideOnly": true
+    }
+}
