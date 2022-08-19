@@ -1,0 +1,25 @@
+
+# Welcome to the Tropicraft per-world configuration!
+[" Overworld Generation Values"]
+	# Higher number = more palm trees generate closer together in the overworld
+	#Range: 1 ~ 5
+	palm_tree_density_overworld = 1
+	# Should Tropicraft palm trees generate in the overworld? NOTE: You need these to get to the tropics dimension
+	generate_palm_trees_in_overworld = true
+	# In the overworld, should Tropicraft palms only generate in beach biomes?
+	generate_palm_trees_in_overworld_beaches_only = false
+	# In the overworld, should Easter Island Head statues generate?
+	generate_eih_in_overworld = false
+	# In the overworld, should Tropicraft flowers generate?
+	generate_tropicraft_flowers_in_overworld = false
+	# In the overworld, should pineapples generate? NOTE: You need these to get to the tropics dimension
+	generate_pineapples_in_overworld = true
+
+[" Behavior settings"]
+	# Should Tropicraft volanoes erupt, spewing lava everywhere over the land?
+	allow_volcano_eruption = true
+
+[" User-specific settings"]
+	# List of UUIDs (not usernames) of users that can use coconut bombs. These are DANGEROUS and EXPLOSIVE so give this power out wisely. NOTE: Make sure you use the version of UUID that has dashes
+	coconut_bomb_whitelist = [""]
+
