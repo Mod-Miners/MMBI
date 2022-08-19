@@ -1,0 +1,546 @@
+{
+    "me.desht.pneumaticcraft.client.gui.GuiAdvancedAirCompressor": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiAdvancedLiquidCompressor": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiAerialInterface": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiAirCannon": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiAirCompressor": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiAssemblyController": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiChargingStation": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -24
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -36
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiElectrostaticCompressor": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiFluxCompressor": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiGasLift": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiKeroseneLamp": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -42,
+                "bottom": -12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": -24
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": -36
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiLiquidCompressor": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiLiquidHopper": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiOmnidirectionalHopper": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiPneumaticDoorBase": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiPneumaticDynamo": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiPressureChamberInterface": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiProgrammableController": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiProgrammer": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 51,
+                "bottom": -13
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 51,
+                "bottom": -13
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 51,
+                "bottom": -13
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiRefineryController": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiSentryTurret": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -42,
+                "bottom": -12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": -24
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": -36
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiThermalCompressor": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiThermopneumaticProcessingPlant": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -42,
+                "bottom": -12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": -24
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": -36
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiUniversalSensor": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -42,
+                "bottom": -12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": -24
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": -36
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiUVLightBox": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -42,
+                "bottom": -10
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": -22
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": -34
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiVacuumPump": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiEtchingTank": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiReinforcedChest": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 116
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 116
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 116
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiTagWorkbench": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -4,
+                "bottom": -12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 8,
+                "bottom": -24
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 20,
+                "bottom": -36
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiFluidMixer": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -42,
+                "bottom": -12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": -24
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": -36
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiVacuumTrap": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -42,
+                "bottom": -12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": -24
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": -36
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiSpawnerExtractor": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.GuiPressurizedSpawner": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 20
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 20
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 20
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.PressurizedSpawnerScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -11
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -23
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -35
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.VacuumTrapScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -11
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -23
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -35
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.FluidMixerScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -11
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -23
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -35
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.TagWorkbenchScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -4,
+                "bottom": -11
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -3,
+                "bottom": -11
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -2,
+                "bottom": -11
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.SmartChestScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -11
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -23
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -35
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.ReinforcedChestScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.EtchingTankScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.VacuumPumpScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.UVLightBoxScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -11
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -23
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -35
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.UniversalSensorScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -11
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -23
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -35
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.ThermopneumaticProcessingPlantScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -11
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -23
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -35
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.ThermalCompressorScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -11
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -23
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -35
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.SentryTurretScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -11
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -23
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -35
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.RefineryControllerScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.ProgrammerScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -11
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -23
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -35
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.ProgrammableControllerScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.PressureChamberInterfaceScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.PneumaticDynamoScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.PneumaticDoorBaseScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.OmnidirectionalHopperScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.LiquidHopperScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.LiquidCompressorScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.KeroseneLampScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -11
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -23
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -35
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.GasLiftScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.FluxCompressorScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.ElectrostaticCompressorScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.ChargingStationScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -41,
+                "bottom": -11
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -29,
+                "bottom": -23
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -17,
+                "bottom": -35
+            }
+        }
+    },
+    "me.desht.pneumaticcraft.client.gui.AssemblyControllerScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.AirCompressorScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.AirCannonScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.AerialInterfaceScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.AdvancedLiquidCompressorScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.AdvancedAirCompressorScreen": {
+        "playerSideOnly": true
+    },
+    "me.desht.pneumaticcraft.client.gui.semiblock.LogisticsRequesterScreen": {
+        "playerSideOnly": true
+    }
+}
