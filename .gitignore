@@ -6,5 +6,7 @@ smoothboot.json
 */**/kubejs/server.txt
 */**/kubejs/startup.txt
 */**/kubejs/exported
+/server/current/**/kubejs/client_scripts
+/server/current/**/kubejs/config/client.properties
 
 /server/current/**/*-client.toml
