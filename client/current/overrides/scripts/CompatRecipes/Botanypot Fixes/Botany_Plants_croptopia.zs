@@ -1,0 +1,10 @@
+import mods.botanypots.ZenCrop;
+val crops = <recipetype:botanypots:crop>;
+val coffeeCrop = crops.create("3mp:coffee",<item:croptopia:coffee_seed>,<blockstate:croptopia:coffee_crop>, 2000, "dirt");
+val coffee = crops.getCrop("3mp:coffee");
+val chileCrop = crops.create("3mp:chile", <item:croptopia:chile_pepper_seed>, <blockstate:croptopia:chile_pepper_crop>, 2000, "dirt");
+val chile = crops.getCrop("3mp:chile");
+chile.addDrop(<item:croptopia:chile_pepper>, 1, 1, 3);
+chile.addDrop(<item:croptopia:chile_pepper_seed>, 0.5);
+coffee.addDrop(<item:croptopia:coffee_beans>, 1, 1,3);
+coffee.addDrop(<item:croptopia:coffee_seed>, 0.5);

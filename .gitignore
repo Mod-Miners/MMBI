@@ -1,3 +1,8 @@
 /client/current/overrides/config/voicechat
 voicechat-client.toml
 smoothboot.json
+
+*/**/kubejs/client.txt
+*/**/kubejs/server.txt
+*/**/kubejs/startup.txt
+*/**/kubejs/exported/
