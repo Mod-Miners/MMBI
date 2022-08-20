@@ -1,6 +1,6 @@
 /client/current/overrides/config/voicechat
-voicechat-client.toml
-smoothboot.json
+/client/current/overrides/config/voicechat-client.toml
+/client/current/overrides/config/smoothboot.json
 
 */**/kubejs/client.txt
 */**/kubejs/server.txt
