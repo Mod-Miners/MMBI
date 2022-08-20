@@ -1,2 +1,3 @@
 /client/current/overrides/config/voicechat
-**/voicechat-client.toml
+voicechat-client.toml
+smoothboot.json
