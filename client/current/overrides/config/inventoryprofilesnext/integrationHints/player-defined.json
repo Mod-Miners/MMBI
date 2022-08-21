@@ -746,14 +746,5 @@
     },
     "com.the9grounds.aeadditions.client.gui.me.chemical.ChemicalIOBusScreen": {
         "playerSideOnly": true
-    },
-    "com.valkyrieofnight.envirocore.m_machines.m_mem_progrm.ui.client.MemProgrmGui": {
-        "playerSideOnly": true
-    },
-    "com.brandon3055.draconicevolution.client.gui.modular.GuiModularItem": {
-        "playerSideOnly": true
-    },
-    "com.the9grounds.aeadditions.client.gui.me.chemical.ChemicalInterfaceScreen": {
-        "playerSideOnly": true
     }
 }
