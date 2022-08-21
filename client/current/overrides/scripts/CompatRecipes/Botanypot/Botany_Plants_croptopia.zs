@@ -5,7 +5,7 @@ val CROP_RECIPES = <recipetype:botanypots:crop>;
 
 val PLANTS = [
     "artichoke", "asparagus",  "barley", "basil", "bellpepper", "blackbean", "blackberry", "blueberry", "broccoli",
-    "cabbage", "cantaloupe", "cauliflower", "celery", "chile", "coffee", "corn", "cranberry", "cucumber", "currant",
+    "cabbage", "cantaloupe", "cauliflower", "celery", "chile_pepper", "coffee", "corn", "cranberry", "cucumber", "currant",
     "eggplant", "elderberry", "garlic", "ginger", "grape", "greenbean", "greenonion", "honeydew", "hops",  "kale",
     "kiwi", "leek", "lettuce", "mustard", "oat", "olive", "onion", "peanut", "pepper", "pineapple", "radish",
     "raspberry", "rhubarb", "rice", "rutabaga", "saguaro", "soybean", "spinach", "squash", "strawberry", "sweetpotato",
