@@ -1,0 +1,3 @@
+#If TRUE, Redstone Flux will act as its own energy system and will NOT be interoperable with 'Forge Energy' - only enable this if you absolutely know what you are doing and want Redstone Arsenal to use a unique energy system.
+"Standalone Redstone Flux" = false
+
