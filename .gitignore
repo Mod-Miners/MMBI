@@ -1,6 +1,7 @@
 /client/current/overrides/config/voicechat
 /client/current/overrides/config/voicechat-client.toml
 /client/current/overrides/config/smoothboot.json
+/client/current/overrides/config/brandon3055/servers
 
 */**/kubejs/client.txt
 */**/kubejs/server.txt
@@ -9,4 +10,5 @@
 /server/current/**/kubejs/client_scripts
 /server/current/**/kubejs/config/client.properties
 
-/server/current/**/*-client.toml
+/server/current/overrides/config/**/*-client.toml
+/server/current/overrides/config/worldedit/.archive-unpack

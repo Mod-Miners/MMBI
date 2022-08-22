@@ -1,137 +1,22 @@
 import mods.botanypots.ZenCrop;
-val crops = <recipetype:botanypots:crop>;
-val coffeeCrop = crops.create("mmbi:coffee",<item:croptopia:coffee_seed>,<blockstate:croptopia:coffee_crop>, 2000, "dirt");
-val coffee = crops.getCrop("mmbi:coffee");
-val chileCrop = crops.create("mmbi:chile", <item:croptopia:chile_pepper_seed>, <blockstate:croptopia:chile_pepper_crop>, 2000, "dirt");
-val chile = crops.getCrop("mmbi:chile");
-val artichokeCrop = crops.create("mmbi:artichoke", <item:croptopia:artichoke_seed>, <blockstate:croptopia:artichoke_crop>, 2000, "dirt");
-val artichoke = crops.getCrop("mmbi:artichoke");
-val asparagusCrop = crops.create("mmbi:asparagus",<item:croptopia:asparagus_seed>,<blockstate:croptopia:asparagus_crop>, 2000, "dirt");
-val asparagus = crops.getCrop("mmbi:asparagus");
-val barleyCrop = crops.create("mmbi:barley",<item:croptopia:barley_seed>,<blockstate:croptopia:barley_crop>, 2000, "dirt");
-val barley = crops.getCrop("mmbi:barley");
-val basilCrop = crops.create("mmbi:basil",<item:croptopia:basil_seed>,<blockstate:croptopia:basil_crop>, 2000, "dirt");
-val basil = crops.getCrop("mmbi:basil");
-val bellpepperCrop = crops.create("mmbi:bellpepper",<item:croptopia:bellpepper_seed>,<blockstate:croptopia:bellpepper_crop>, 2000, "dirt");
-val bellpepper = crops.getCrop("mmbi:bellpepper");
-val blackbeanCrop = crops.create("mmbi:blackbean",<item:croptopia:blackbean_seed>,<blockstate:croptopia:blackbean_crop>, 2000, "dirt");
-val blackbean = crops.getCrop("mmbi:blackbean");
-val blackberryCrop = crops.create("mmbi:blackberry",<item:croptopia:blackberry_seed>,<blockstate:croptopia:blackberry_crop>, 2000, "dirt");
-val blackberry = crops.getCrop("mmbi:blackberry");
-val blueberryCrop = crops.create("mmbi:blueberry",<item:croptopia:blueberry_seed>,<blockstate:croptopia:blueberry_crop>, 2000, "dirt");
-val blueberry = crops.getCrop("mmbi:blueberry");
-val broccoliCrop = crops.create("mmbi:broccoli",<item:croptopia:broccoli_seed>,<blockstate:croptopia:broccoli_crop>, 2000, "dirt");
-val broccoli = crops.getCrop("mmbi:broccoli");
-val cabbageCrop = crops.create("mmbi:cabbage",<item:croptopia:cabbage_seed>,<blockstate:croptopia:cabbage_crop>, 2000, "dirt");
-val cabbage = crops.getCrop("mmbi:cabbage");
-val cantaloupeCrop = crops.create("mmbi:cantaloupe",<item:croptopia:cantaloupe_seed>,<blockstate:croptopia:cantaloupe_crop>, 2000, "dirt");
-val cantaloupe = crops.getCrop("mmbi:cantaloupe");
-val cauliflowerCrop = crops.create("mmbi:cauliflower",<item:croptopia:cauliflower_seed>,<blockstate:croptopia:cauliflower_crop>, 2000, "dirt");
-val cauliflower = crops.getCrop("mmbi:cauliflower");
-val celeryCrop = crops.create("mmbi:celery",<item:croptopia:celery_seed>,<blockstate:croptopia:celery_crop>, 2000, "dirt");
-val celery = crops.getCrop("mmbi:celery");
-val cornCrop = crops.create("mmbi:corn",<item:croptopia:corn_seed>,<blockstate:croptopia:corn_crop>, 2000, "dirt");
-val corn = crops.getCrop("mmbi:corn");
-val cranberryCrop = crops.create("mmbi:cranberry",<item:croptopia:cranberry_seed>,<blockstate:croptopia:cranberry_crop>, 2000, "dirt");
-val cranberry = crops.getCrop("mmbi:cranberry");
-val cucumberCrop = crops.create("mmbi:cucumber",<item:croptopia:cucumber_seed>,<blockstate:croptopia:cucumber_crop>, 2000, "dirt");
-val cucumber = crops.getCrop("mmbi:cucumber");
-val currantCrop = crops.create("mmbi:currant",<item:croptopia:currant_seed>,<blockstate:croptopia:currant_crop>, 2000, "dirt");
-val currant = crops.getCrop("mmbi:currant");
-val eggplantCrop = crops.create("mmbi:eggplant",<item:croptopia:eggplant_seed>,<blockstate:croptopia:eggplant_crop>, 2000, "dirt");
-val eggplant = crops.getCrop("mmbi:eggplant");
-val elderberryCrop = crops.create("mmbi:elderberry",<item:croptopia:elderberry_seed>,<blockstate:croptopia:elderberry_crop>, 2000, "dirt");
-val elderberry = crops.getCrop("mmbi:elderberry");
-val garlicCrop = crops.create("mmbi:garlic",<item:croptopia:garlic_seed>,<blockstate:croptopia:garlic_crop>, 2000, "dirt");
-val garlic = crops.getCrop("mmbi:garlic");
-val gingerCrop = crops.create("mmbi:ginger",<item:croptopia:ginger_seed>,<blockstate:croptopia:ginger_crop>, 2000, "dirt");
-val ginger = crops.getCrop("mmbi:ginger");
-val grapeCrop = crops.create("mmbi:grape",<item:croptopia:grape_seed>,<blockstate:croptopia:grape_crop>, 2000, "dirt");
-val grape = crops.getCrop("mmbi:grape");
-val greenbeanCrop = crops.create("mmbi:greenbean",<item:croptopia:greenbean_seed>,<blockstate:croptopia:greenbean_crop>, 2000, "dirt");
-val greenbean = crops.getCrop("mmbi:greenbean");
-val greenonionCrop = crops.create("mmbi:greenonion",<item:croptopia:greenonion_seed>,<blockstate:croptopia:greenonion_crop>, 2000, "dirt");
-val greenonion = crops.getCrop("mmbi:greenonion");
-val honeydewCrop = crops.create("mmbi:honeydew",<item:croptopia:honeydew_seed>,<blockstate:croptopia:honeydew_crop>, 2000, "dirt");
-val honeydew = crops.getCrop("mmbi:honeydew");
-val hopsCrop = crops.create("mmbi:hops",<item:croptopia:hops_seed>,<blockstate:croptopia:hops_crop>, 2000, "dirt");
-val hops = crops.getCrop("mmbi:hops");
-val kaleCrop = crops.create("mmbi:kale",<item:croptopia:kale_seed>,<blockstate:croptopia:kale_crop>, 2000, "dirt");
-val kale = crops.getCrop("mmbi:kale");
-val kiwiCrop = crops.create("mmbi:kiwi",<item:croptopia:kiwi_seed>,<blockstate:croptopia:kiwi_crop>, 2000, "dirt");
-val kiwi = crops.getCrop("mmbi:kiwi");
-val leekCrop = crops.create("mmbi:leek",<item:croptopia:leek_seed>,<blockstate:croptopia:leek_crop>, 2000, "dirt");
-val leek = crops.getCrop("mmbi:leek");
-val lettuceCrop = crops.create("mmbi:lettuce",<item:croptopia:lettuce_seed>,<blockstate:croptopia:lettuce_crop>, 2000, "dirt");
-val lettuce = crops.getCrop("mmbi:lettuce");
-val mustardCrop = crops.create("mmbi:mustard",<item:croptopia:mustard_seed>,<blockstate:croptopia:mustard_crop>, 2000, "dirt");
-val mustard = crops.getCrop("mmbi:mustard");
-val oatCrop = crops.create("mmbi:oat",<item:croptopia:oat_seed>,<blockstate:croptopia:oat_crop>, 2000, "dirt");
-val oat = crops.getCrop("mmbi:oat");
-val oliveCrop = crops.create("mmbi:olive",<item:croptopia:olive_seed>,<blockstate:croptopia:olive_crop>, 2000, "dirt");
-val olive = crops.getCrop("mmbi:olive");
-val onionCrop = crops.create("mmbi:onion",<item:croptopia:onion_seed>,<blockstate:croptopia:onion_crop>, 2000, "dirt");
-val onion = crops.getCrop("mmbi:onion");
-val peanutCrop = crops.create("mmbi:peanut",<item:croptopia:peanut_seed>,<blockstate:croptopia:peanut_crop>, 2000, "dirt");
-val peanut = crops.getCrop("mmbi:peanut");
-val pepperCrop = crops.create("mmbi:pepper",<item:croptopia:pepper_seed>,<blockstate:croptopia:pepper_crop>, 2000, "dirt");
-val pepper = crops.getCrop("mmbi:pepper");
-val pineappleCrop = crops.create("mmbi:pineapple",<item:croptopia:pineapple_seed>,<blockstate:croptopia:pineapple_crop>, 2000, "dirt");
-val pineapple = crops.getCrop("mmbi:pineapple");
-val radishCrop = crops.create("mmbi:radish",<item:croptopia:radish_seed>,<blockstate:croptopia:radish_crop>, 2000, "dirt");
-val radish = crops.getCrop("mmbi:radish");
-val raspberryCrop = crops.create("mmbi:raspberry",<item:croptopia:raspberry_seed>,<blockstate:croptopia:raspberry_crop>, 2000, "dirt");
-val raspberry = crops.getCrop("mmbi:raspberry");
-val rhubarbCrop = crops.create("mmbi:rhubarb",<item:croptopia:rhubarb_seed>,<blockstate:croptopia:rhubarb_crop>, 2000, "dirt");
-val rhubarb = crops.getCrop("mmbi:rhubarb");
-val riceCrop = crops.create("mmbi:rice",<item:croptopia:rice_seed>,<blockstate:croptopia:rice_crop>, 2000, "dirt");
-val rice = crops.getCrop("mmbi:rice");
-val rutabagaCrop = crops.create("mmbi:rutabaga",<item:croptopia:rutabaga_seed>,<blockstate:croptopia:rutabaga_crop>, 2000, "dirt");
-val rutabaga = crops.getCrop("mmbi:rutabaga");
-val saguaroCrop = crops.create("mmbi:saguaro",<item:croptopia:saguaro_seed>,<blockstate:croptopia:saguaro_crop>, 2000, "dirt");
-val saguaro = crops.getCrop("mmbi:saguaro");
-val soybeanCrop = crops.create("mmbi:soybean",<item:croptopia:soybean_seed>,<blockstate:croptopia:soybean_crop>, 2000, "dirt");
-val soybean = crops.getCrop("mmbi:soybean");
-val spinachCrop = crops.create("mmbi:spinach",<item:croptopia:spinach_seed>,<blockstate:croptopia:spinach_crop>, 2000, "dirt");
-val spinach = crops.getCrop("mmbi:spinach");
-val squashCrop = crops.create("mmbi:squash",<item:croptopia:squash_seed>,<blockstate:croptopia:squash_crop>, 2000, "dirt");
-val squash = crops.getCrop("mmbi:squash");
-val strawberryCrop = crops.create("mmbi:strawberry",<item:croptopia:strawberry_seed>,<blockstate:croptopia:strawberry_crop>, 2000, "dirt");
-val strawberry = crops.getCrop("mmbi:strawberry");
-val sweetpotatoCrop = crops.create("mmbi:sweetpotato",<item:croptopia:sweetpotato_seed>,<blockstate:croptopia:sweetpotato_crop>, 2000, "dirt");
-val sweetpotato = crops.getCrop("mmbi:sweetpotato");
-val teaCrop = crops.create("mmbi:tea",<item:croptopia:tea_seed>,<blockstate:croptopia:tea_crop>, 2000, "dirt");
-val tea = crops.getCrop("mmbi:tea");
-val tomatilloCrop = crops.create("mmbi:tomatillo",<item:croptopia:tomatillo_seed>,<blockstate:croptopia:tomatillo_crop>, 2000, "dirt");
-val tomatillo = crops.getCrop("mmbi:tomatillo");
-val tomatoCrop = crops.create("mmbi:tomato",<item:croptopia:tomato_seed>,<blockstate:croptopia:tomato_crop>, 2000, "dirt");
-val tomato = crops.getCrop("mmbi:tomato");
-val turmericCrop = crops.create("mmbi:turmeric",<item:croptopia:turmeric_seed>,<blockstate:croptopia:turmeric_crop>, 2000, "dirt");
-val turmeric = crops.getCrop("mmbi:turmeric");
-val turnipCrop = crops.create("mmbi:turnip",<item:croptopia:turnip_seed>,<blockstate:croptopia:turnip_crop>, 2000, "dirt");
-val turnip = crops.getCrop("mmbi:turnip");
-val vanillaCrop = crops.create("mmbi:vanilla",<item:croptopia:vanilla_seeds>,<blockstate:croptopia:vanilla_crop>, 2000, "dirt");
-val vanilla = crops.getCrop("mmbi:vanilla");
-val yamCrop = crops.create("mmbi:yam",<item:croptopia:yam_seed>,<blockstate:croptopia:yam_crop>, 2000, "dirt");
-val yam = crops.getCrop("mmbi:yam");
-val zucchiniCrop = crops.create("mmbi:zucchini",<item:croptopia:zucchini_seed>,<blockstate:croptopia:zucchini_crop>, 2000, "dirt");	
-val zucchini = crops.getCrop("mmbi:zucchini");
+import crafttweaker.api.BracketHandlers;
 
-val cropTypeArray = [coffee,chile,barley,basil,bellpepper,blackbean,blackberry,blueberry,broccoli,cabbage,cantaloupe,cauliflower,celery,corn,cranberry,cucumber,currant,eggplant,elderberry,garlic,ginger,grape,greenbean,greenonion,honeydew,hops,kale,kiwi,leek,lettuce,mustard,oat,olive,onion,peanut,pepper,pineapple,radish,raspberry,rhubarb,rice,rutabaga,saguaro,soybean,spinach,squash,strawberry,sweetpotato,tea,tomatillo,tomato,turmeric,turnip,vanilla,yam,zucchini] as ZenCrop[]; 
-val cropOutputArray = [<item:croptopia:coffee>,<item:croptopia:chile_pepper>,<item:croptopia:barley>,<item:croptopia:basil>,<item:croptopia:bellpepper>,<item:croptopia:blackbean>,<item:croptopia:blackberry>,<item:croptopia:blueberry>,<item:croptopia:broccoli>,<item:croptopia:cabbage>,<item:croptopia:cantaloupe>,<item:croptopia:cauliflower>,<item:croptopia:celery>,<item:croptopia:corn>,<item:croptopia:cranberry>,<item:croptopia:cucumber>,<item:croptopia:currant>,<item:croptopia:eggplant>,<item:croptopia:elderberry>,<item:croptopia:garlic>,<item:croptopia:ginger>,<item:croptopia:grape>,<item:croptopia:greenbean>,<item:croptopia:greenonion>,<item:croptopia:honeydew>,<item:croptopia:hops>,<item:croptopia:kale>,<item:croptopia:kiwi>,<item:croptopia:leek>,<item:croptopia:lettuce>,<item:croptopia:mustard>,<item:croptopia:oat>,<item:croptopia:olive>,<item:croptopia:onion>,<item:croptopia:peanut>,<item:croptopia:pepper>,<item:croptopia:pineapple>,<item:croptopia:radish>,<item:croptopia:raspberry>,<item:croptopia:rhubarb>,<item:croptopia:rice>,<item:croptopia:rutabaga>,<item:croptopia:saguaro>,<item:croptopia:soybean>,<item:croptopia:spinach>,<item:croptopia:squash>,<item:croptopia:strawberry>,<item:croptopia:sweetpotato>,<item:croptopia:tea>,<item:croptopia:tomatillo>,<item:croptopia:tomato>,<item:croptopia:turmeric>,<item:croptopia:turnip>,<item:croptopia:vanilla>,<item:croptopia:yam>,<item:croptopia:zucchini>];
-val cropOutputSeedArray = [<item:croptopia:coffee_seed>,<item:croptopia:chile_pepper_seed>,<item:croptopia:barley_seed>,<item:croptopia:basil_seed>,<item:croptopia:bellpepper_seed>,<item:croptopia:blackbean_seed>,<item:croptopia:blackberry_seed>,<item:croptopia:blueberry_seed>,<item:croptopia:broccoli_seed>,<item:croptopia:cabbage_seed>,<item:croptopia:cantaloupe_seed>,<item:croptopia:cauliflower_seed>,<item:croptopia:celery_seed>,<item:croptopia:corn_seed>,<item:croptopia:cranberry_seed>,<item:croptopia:cucumber_seed>,<item:croptopia:currant_seed>,<item:croptopia:eggplant_seed>,<item:croptopia:elderberry_seed>,<item:croptopia:garlic_seed>,<item:croptopia:ginger_seed>,<item:croptopia:grape_seed>,<item:croptopia:greenbean_seed>,<item:croptopia:greenonion_seed>,<item:croptopia:honeydew_seed>,<item:croptopia:hops_seed>,<item:croptopia:kale_seed>,<item:croptopia:kiwi_seed>,<item:croptopia:leek_seed>,<item:croptopia:lettuce_seed>,<item:croptopia:mustard_seed>,<item:croptopia:oat_seed>,<item:croptopia:olive_seed>,<item:croptopia:onion_seed>,<item:croptopia:peanut_seed>,<item:croptopia:pepper_seed>,<item:croptopia:pineapple_seed>,<item:croptopia:radish_seed>,<item:croptopia:raspberry_seed>,<item:croptopia:rhubarb_seed>,<item:croptopia:rice_seed>,<item:croptopia:rutabaga_seed>,<item:croptopia:saguaro_seed>,<item:croptopia:soybean_seed>,<item:croptopia:spinach_seed>,<item:croptopia:squash_seed>,<item:croptopia:strawberry_seed>,<item:croptopia:sweetpotato_seed>,<item:croptopia:tea_seed>,<item:croptopia:tomatillo_seed>,<item:croptopia:tomato_seed>,<item:croptopia:turmeric_seed>,<item:croptopia:turnip_seed>,<item:croptopia:vanilla_seeds>,<item:croptopia:yam_seed>,<item:croptopia:zucchini_seed>];
-for i, element in cropTypeArray{
-var n = i;
- element.addDrop(cropOutputArray[n], 1, 1, 3);
- element.addDrop(cropOutputSeedArray[n], 0.5);}
+val CROP_RECIPES = <recipetype:botanypots:crop>;
 
+val PLANTS = [
+    "artichoke", "asparagus",  "barley", "basil", "bellpepper", "blackbean", "blackberry", "blueberry", "broccoli",
+    "cabbage", "cantaloupe", "cauliflower", "celery", "chile_pepper", "coffee", "corn", "cranberry", "cucumber", "currant",
+    "eggplant", "elderberry", "garlic", "ginger", "grape", "greenbean", "greenonion", "honeydew", "hops",  "kale",
+    "kiwi", "leek", "lettuce", "mustard", "oat", "olive", "onion", "peanut", "pepper", "pineapple", "radish",
+    "raspberry", "rhubarb", "rice", "rutabaga", "saguaro", "soybean", "spinach", "squash", "strawberry", "sweetpotato",
+    "tea", "tomatillo", "tomato", "turmeric", "turnip", "vanilla", "yam", "zucchini"
+];
 
-
-
-
-
-
-//chile.addDrop(<item:croptopia:chile_pepper>, 1, 1, 3);
-//chile.addDrop(<item:croptopia:chile_pepper_seed>, 0.5);
-//coffee.addDrop(<item:croptopia:coffee_beans>, 1, 1,3);
-//coffee.addDrop(<item:croptopia:coffee_seed>, 0.5);
+for plant in PLANTS {
+    val seed = BracketHandlers.getItem("croptopia:" + plant + "_seed" + (plant == "vanilla" ? "s" : ""));
+    val crop = CROP_RECIPES.create("mmbi:croptopia/" + plant, seed, BracketHandlers.getBlockState("croptopia:" + plant + "_crop:age=7"), 2000, "dirt");
+    
+    val result = BracketHandlers.getItem("croptopia:" + plant + (plant == "coffee" ? "_beans" : (plant == "tea" ? "_leaves" : "")));
+    crop.addDrop(result, 1, 1, 3);
+    crop.addDrop(seed, 0.5);
+}
