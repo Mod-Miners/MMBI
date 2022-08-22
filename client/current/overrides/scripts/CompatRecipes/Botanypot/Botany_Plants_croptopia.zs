@@ -16,7 +16,7 @@ for plant in PLANTS {
     val seed = BracketHandlers.getItem("croptopia:" + plant + "_seed" + (plant == "vanilla" ? "s" : ""));
     val crop = CROP_RECIPES.create("mmbi:croptopia/" + plant, seed, BracketHandlers.getBlockState("croptopia:" + plant + "_crop:age=7"), 2000, "dirt");
     
-    val result = BracketHandlers.getItem("croptopia:" + plant + (plant == "coffee" ? "_beans" : (plant == "tea" ? "_leaves" : "")));
+ val result = BracketHandlers.getItem("croptopia:" + plant + (plant == "coffee" ? "_beans" : (plant == "tea" ? "_leaves" : "")));
     crop.addDrop(result, 1, 1, 3);
     crop.addDrop(seed, 0.5);
 }
