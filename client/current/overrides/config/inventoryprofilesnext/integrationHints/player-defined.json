@@ -746,5 +746,109 @@
     },
     "com.the9grounds.aeadditions.client.gui.me.chemical.ChemicalIOBusScreen": {
         "playerSideOnly": true
+    },
+    "com.valkyrieofnight.envirocore.m_machines.m_mem_progrm.ui.client.MemProgrmGui": {
+        "playerSideOnly": true
+    },
+    "com.brandon3055.draconicevolution.client.gui.modular.GuiModularItem": {
+        "playerSideOnly": true
+    },
+    "com.the9grounds.aeadditions.client.gui.me.chemical.ChemicalInterfaceScreen": {
+        "playerSideOnly": true
+    },
+    "com.refinedmods.refinedpipes.screen.ExtractorAttachmentScreen": {
+        "ignore": true,
+        "playerSideOnly": true
+    },
+    "net.mrscauthd.boss_tools.gui.screens.nasaworkbench.NasaWorkbenchGuiWindow": {
+        "playerSideOnly": true
+    },
+    "net.mrscauthd.boss_tools.gui.screens.solarpanel.SolarPanelGuiWindow": {
+        "ignore": true
+    },
+    "net.mrscauthd.boss_tools.gui.screens.coalgenerator.CoalGeneratorGuiWindow": {
+        "playerSideOnly": true
+    },
+    "net.mrscauthd.boss_tools.gui.screens.blastfurnace.BlastFurnaceGuiWindow": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 1,
+                "bottom": 3
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 1,
+                "bottom": 3
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 1,
+                "bottom": 3
+            }
+        }
+    },
+    "net.mrscauthd.boss_tools.gui.screens.compressor.CompressorGuiWindow": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 1
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 1
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 1
+            }
+        }
+    },
+    "net.mrscauthd.boss_tools.gui.screens.fuelrefinery.FuelRefineryGuiWindow": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 1
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 1
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 1
+            }
+        }
+    },
+    "net.mrscauthd.boss_tools.gui.screens.oxygenloader.OxygenLoaderGuiWindow": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 1
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 1
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 1
+            }
+        }
+    },
+    "net.mrscauthd.boss_tools.gui.screens.oxygenbubbledistributor.OxygenBubbleDistributorGuiWindow": {
+        "ignore": true
+    },
+    "net.mrscauthd.boss_tools.gui.screens.waterpump.WaterPumpGuiWindow": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 1
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 1
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 1
+            }
+        }
+    },
+    "net.mrscauthd.boss_tools.gui.screens.rover.RoverGuiWindow": {
+        "playerSideOnly": true
+    },
+    "net.mrscauthd.boss_tools.gui.screens.rocket.RocketGuiWindow": {
+        "playerSideOnly": true
     }
 }

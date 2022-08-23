@@ -7,7 +7,6 @@
     },
     "GuiSettings": {
         "enable_profiles_ui": false,
-        "enable_inventory_editor_button": false,
         "continuous_crafting_saved_value": false
     },
     "LockedSlotsSettings": {
