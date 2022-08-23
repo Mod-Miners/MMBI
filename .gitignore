@@ -12,3 +12,5 @@
 
 /server/current/overrides/config/**/*-client.toml
 /server/current/overrides/config/worldedit/.archive-unpack
+
+*.bak

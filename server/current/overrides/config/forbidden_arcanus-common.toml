@@ -198,7 +198,7 @@
 
 	[aureal.corruption]
 		#Do you want to completely disable corruption consequences? [default: false]
-		disable_consequences = false
+		disable_consequences = true
 		#How much Corruption should killing a normal Entity give [default: 1]
 		#Range: 0 ~ 100
 		entity_death_increasement_amount = 1
