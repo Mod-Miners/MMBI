@@ -856,5 +856,8 @@
     },
     "com.brandon3055.draconicevolution.client.gui.GuiEnergyCore": {
         "ignore": true
+    },
+    "com.mrcrayfish.furniture.client.gui.screen.inventory.MailBoxScreen": {
+        "playerSideOnly": true
     }
 }
