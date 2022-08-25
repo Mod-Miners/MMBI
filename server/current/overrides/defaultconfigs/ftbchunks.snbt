@@ -29,13 +29,13 @@
 	# You can override this with FTB Ranks 'ftbchunks.max_claimed' permission
 	# Default: 500
 	# Range: -∞ ~ +∞
-	max_claimed_chunks: 500
+	max_claimed_chunks: 9
 	
 	# Max force loaded chunks.
 	# You can override this with FTB Ranks 'ftbchunks.max_force_loaded' permission
 	# Default: 25
 	# Range: -∞ ~ +∞
-	max_force_loaded_chunks: 25
+	max_force_loaded_chunks: 0
 	
 	# Requires you to claim chunks in order to edit and interact with blocks
 	# Default: false

@@ -850,5 +850,11 @@
     },
     "net.mrscauthd.boss_tools.gui.screens.rocket.RocketGuiWindow": {
         "playerSideOnly": true
+    },
+    "com.lothrazar.storagenetwork.item.remote.GuiNetworkCraftingRemote": {
+        "playerSideOnly": true
+    },
+    "com.brandon3055.draconicevolution.client.gui.GuiEnergyCore": {
+        "ignore": true
     }
 }

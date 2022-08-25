@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "MMBI (wip)",
-  "version": "0.3",
+  "version": "0.4",
   "author": "",
   "files": [
     {
@@ -182,6 +182,11 @@
     {
       "projectID": 247007,
       "fileID": 3482420,
+      "required": true
+    },
+    {
+      "projectID": 250363,
+      "fileID": 3326041,
       "required": true
     },
     {
@@ -382,6 +387,11 @@
     {
       "projectID": 281849,
       "fileID": 3874893,
+      "required": true
+    },
+    {
+      "projectID": 250577,
+      "fileID": 3190372,
       "required": true
     },
     {
@@ -611,7 +621,7 @@
     },
     {
       "projectID": 388172,
-      "fileID": 3929996,
+      "fileID": 3945266,
       "required": true
     },
     {
@@ -785,8 +795,13 @@
       "required": true
     },
     {
+      "projectID": 457570,
+      "fileID": 3946491,
+      "required": true
+    },
+    {
       "projectID": 574856,
-      "fileID": 3929490,
+      "fileID": 3949659,
       "required": true
     },
     {
@@ -1207,6 +1222,11 @@
     {
       "projectID": 64760,
       "fileID": 3921268,
+      "required": true
+    },
+    {
+      "projectID": 345135,
+      "fileID": 3561235,
       "required": true
     },
     {
